@@ -25,6 +25,9 @@ public class Provider {
         this.email = email;
         this.numTel = numTel;
     }
+    public Provider(){
+
+    }
 
     public Integer getId() {
         return id;
